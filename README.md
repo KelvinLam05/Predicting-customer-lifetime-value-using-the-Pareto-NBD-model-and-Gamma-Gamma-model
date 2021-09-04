@@ -1,1 +1,0 @@
-# Predicting-customer-lifetime-value-using-the-Pareto-NBD-model-and-Gamma-Gamma-model
